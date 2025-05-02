@@ -20,4 +20,7 @@ public class Book {
     @Getter
     @Setter
     private int yearPublished;
+    @Getter
+    @Setter
+    private int copiesAvailable;
 }
